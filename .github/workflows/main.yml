@@ -1,8 +1,8 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *" # 每24小时自动运行一次
   workflow_dispatch:
   push:
     branches:
@@ -16,15 +16,17 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate github-contribution-grid-snake.svg with Planck palette
+        uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          color_snake: "#1D235B,#00B0FF,#FFFF00,#FF9800,#FF4500" # 深蓝-蓝-黄-橙-红
+          color_dots: "#1D235B,#00B0FF,#FFFF00,#FF9800,#FF4500" # 点也采用热力调色板
           
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
