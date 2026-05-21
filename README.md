@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&width=650&lines=%5BSystem+Status%3A+Thermal+Field+Active%5D;%CE%9B+Radiation+Flux%3A+Simulating+Cloud+Maps...;Rendering+Digital+Twin+Environments..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&width=1200&lines=%5BSystem+Status%3A+Thermal+Field+Active%5D;%CE%9B+Radiation+Flux%3A+Simulating+Cloud+Maps...;Rendering+Digital+Twin+Environments..."/>
 </p>
 
 ---
@@ -27,15 +27,25 @@
 
 ---
 
+## 🌐 热场视觉展示区：实时遥测成果 (Spatial Field Visuals)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czyssg123-cpu/czyssg123-cpu/main/cloud_map.png" alt="Cloud Map Visualization" width="400" />
+  <img src="https://raw.githubusercontent.com/czyssg123-cpu/czyssg123-cpu/main/thermal_field.jpg" alt="Thermal Field Visualization" width="400" />
+</p>
+<p align="center"><em>* 上图为实际生成的伪彩色云图与瞬态热场映射</em></p>
+
+---
+
 ## 📊 热像监测站：开源遥测 (Telemetry Data)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=czyssg123-cpu&show_icons=true&bg_color=0d1117&title_color=ff4500&text_color=00ff00&icon_color=ffd700&border_color=ff4500&locale=cn" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyssg123-cpu&layout=compact&bg_color=0d1117&title_color=ff4500&text_color=00ff00&icon_color=ffd700&border_color=ff4500&locale=cn" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=czyssg123-cpu&show_icons=true&bg_color=0d1117&title_color=ff4500&text_color=00ff00&icon_color=ffd700&border_color=ff4500&locale=cn&cache_bust=12345" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyssg123-cpu&layout=compact&bg_color=0d1117&title_color=ff4500&text_color=00ff00&icon_color=ffd700&border_color=ff4500&locale=cn&cache_bust=12345" height="155" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=czyssg123-cpu&bg_color=0d1117&title_color=ff4500&text_color=00ff00&sideNums=ffd700&sideLabels=ffffff&ring=ff4500&fire=ff4500&border=ff4500" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=czyssg123-cpu&bg_color=0d1117&title_color=ff4500&text_color=00ff00&sideNums=ffd700&sideLabels=ffffff&ring=ff4500&fire=ff4500&border=ff4500&cache_bust=12345" height="155" />
 </p>
 
 ---
@@ -50,7 +60,7 @@
 
 ---
 
-## 🐍 辐射链追踪 (Thermal Snake Trace)
+## 🐍 辐射链追踪 (Thermal Snake Trace | Planck Spectrum)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czyssg123-cpu/czyssg123-cpu/output/github-contribution-grid-snake.svg" alt="Snake game"/>
