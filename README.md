@@ -1,6 +1,6 @@
 <!-- 顶部动态打字机欢迎语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+a+Developer!;Focusing+on+Game+Dev+%26+TA;Building+something+cool..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Zoey!;Focusing+on+Game+Dev+%26+TA;Building+something+cool..."/>
 </p>
 
 ---
