@@ -1,6 +1,5 @@
-<!-- 顶部动态打字机欢迎语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Zoey!;Focusing+on+Game+Dev+%26+TA;Building+something+cool..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+a+Developer!;Focusing+on+Game+Dev+%26+TA;Building+something+cool..."/>
 </p>
 
 ---
@@ -17,13 +16,11 @@
 
 ## 📊 开源数据统计 (GitHub Stats)
 
-<!-- 核心数据卡片并排对齐 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=czyssg123-cpu&show_icons=true&theme=tokyonight&locale=cn" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyssg123-cpu&layout=compact&theme=tokyonight&locale=cn" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=czyssg123-cpu&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyssg123-cpu&layout=compact&theme=tokyonight&hide_border=false" height="150" />
 </p>
 
-<!-- 贡献走势图 -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=czyssg123-cpu&theme=tokyonight" height="150" />
 </p>
