@@ -27,7 +27,7 @@
 
 ---
 
-## 🐍 绿格子贪吃蛇 (GitHub Snake)
+## 🐍 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czyssg123-cpu/czyssg123-cpu/output/github-contribution-grid-snake.svg" alt="Snake game"/>
