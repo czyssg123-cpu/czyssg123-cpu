@@ -19,13 +19,13 @@
 
 <!-- 核心数据卡片并排对齐 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&locale=cn" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&locale=cn" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=czyssg123-cpu&show_icons=true&theme=tokyonight&locale=cn" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czyssg123-cpu&layout=compact&theme=tokyonight&locale=cn" height="150" />
 </p>
 
 <!-- 贡献走势图 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=czyssg123-cpu&theme=tokyonight" height="150" />
 </p>
 
 ---
@@ -33,5 +33,5 @@
 ## 🐍 绿格子贪吃蛇 (GitHub Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake game"/>
+  <img src="https://raw.githubusercontent.com/czyssg123-cpu/czyssg123-cpu/output/github-contribution-grid-snake.svg" alt="Snake game"/>
 </p>
