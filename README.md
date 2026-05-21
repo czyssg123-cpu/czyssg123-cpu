@@ -1,38 +1,37 @@
-# Hi, I'm Zoey Cat 👋
-
-一个专注于 2D 游戏开发与技术美术（Technical Art）的独立游戏开发者。目前正在使用 Unity 6 开发个人 2D 像素风格动作游戏 **GeoEvolve**。
-
----
-
-## 🛠️ 技能与工具箱
-
-| 领域 | 技术栈 / 工具 |
-| :--- | :--- |
-| **游戏引擎** | Unity 6 |
-| **技术美术** | Shader Graph, VFX Graph, PBR Workflow |
-| **开发语言** | C#, ShaderLab |
-| **生产力工具** | macOS, Mac mini |
+<!-- 顶部动态打字机欢迎语 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+a+Developer!;Focusing+on+Game+Dev+%26+TA;Building+something+cool..."/>
+</p>
 
 ---
 
-## 🚀 正在进行的项​​目
+## 🛠️ 技术栈与工具 (Tech Stack)
 
-### 🎮 [GeoEvolve](https://github.com/你的用户名/GeoEvolve)
-* **简介**：一款融合几何体变形与进化机制的 2D 像素风格动作游戏。
-* **核心技术**：基于 Unity 6 开发，包含自定义 Shader 特效与流畅的 2D 物理/碰撞状态机。
-
-### 📊 数字化/可视化探索
-* 熟练掌握**热辐射场（Thermal Radiation Field）**等数据场的可视化技术与空间数据渲染优化。
-
----
-
-## 📈 GitHub 统计
-
-![Zoey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radial&hide_border=true)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,cpp,py,blender,substance&theme=dark" />
+  </a>
+</p>
 
 ---
 
-## 📫 联系我
+## 📊 开源数据统计 (GitHub Stats)
 
-* **GitHub**: [@你的用户名](https://github.com/你的用户名)
+<!-- 核心数据卡片并排对齐 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&locale=cn" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&locale=cn" height="150" />
+</p>
+
+<!-- 贡献走势图 -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🐍 绿格子贪吃蛇 (GitHub Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake game"/>
+</p>
